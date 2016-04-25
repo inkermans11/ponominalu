@@ -1,2 +1,0 @@
-# ponominalu
-test exercise
